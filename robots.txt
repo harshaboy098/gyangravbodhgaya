@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://harshaboy098.github.io/gyangravbodhgaya/sitemap.xml
